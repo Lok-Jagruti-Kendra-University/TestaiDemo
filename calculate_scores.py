@@ -80,7 +80,7 @@ def aggregate_scores():
 
 
 # SonarCloud Summary Page URL
-SONARCLOUD_URL = "https://sonarcloud.io/summary/overall?id=Lok-Jagruti-Kendra-University_testai&branch=main"
+SONARCLOUD_URL = "https://sonarcloud.io/summary/overall?id=Lok-Jagruti-Kendra-University_TestaiDemo&branch=main"
 
 def fetch_sonarcloud_summary():
     """Fetch and extract SonarCloud summary data."""
